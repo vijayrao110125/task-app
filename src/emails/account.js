@@ -1,0 +1,2 @@
+const sendgrid=require("@sendgrid/mail")
+const sendgripAPIkey="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"
